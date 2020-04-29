@@ -68,9 +68,6 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onSelectedCounty(County selectedCounty) {
 
-//                showAllCountiesDialog returns the county which contains; Name, Number, Id and Flag
-
-
                         String countyName = selectedCounty.getName();  //eg Mombasa
                         int countyId = selectedCounty.getId();  //eg 1 for Mombasa and 47 for Nairobi
                         String countyNumber = selectedCounty.getFormattedCountyNumber();  //eg  001 for Mombasa and 047 for Nairobi
