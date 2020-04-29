@@ -59,7 +59,7 @@ To the display all counties, call the method
 
 <img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr1.png" width="300" height="auto"> <img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr2.png" width="300" height="auto" > <img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr3.png" width="300" height="auto">
 
-##Ordered alphabetically with county numbers ad without county numbers
+#### Ordered alphabetically
 <img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr4.png" width="300" height="auto"><img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr5.png" width="300" height="auto">
 
 
