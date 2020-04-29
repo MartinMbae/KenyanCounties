@@ -55,6 +55,12 @@ To the display all counties, call the method
 
 ```
 
+## Screenshots
+
+![Selection page](https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr1.png)
+![Dialog with flags and numbers](https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr2.png)
+![Dialog with flags with no numbers](https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr3.png)
+
 ## License
 MIT License
 
