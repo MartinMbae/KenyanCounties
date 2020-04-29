@@ -59,10 +59,14 @@ public class MainActivity extends AppCompatActivity {
                  *
                  * */
 
-                Kenya47Counties.showAllCountiesDialog(MainActivity.this, "Select your county", showNumber.isChecked(), showFlag.isChecked(), orderAlphabetically.isChecked(), new CountyReturned() {
+                Kenya47Counties.showAllCountiesDialog(MainActivity.this,
+                        "Select your county",
+                        showNumber.isChecked(),
+                        showFlag.isChecked(),
+                        orderAlphabetically.isChecked(),
+                        new CountyReturned() {
                     @Override
                     public void onSelectedCounty(County selectedCounty) {
-
 
 //                showAllCountiesDialog returns the county which contains; Name, Number, Id and Flag
 
