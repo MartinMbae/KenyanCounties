@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KenyanCounties</string>
+    <string name="show_county_number">Show County Number</string>
+    <string name="show_county_flag">Show County Flag</string>
+    <string name="order_alphabetically">Order Alphabetically</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>

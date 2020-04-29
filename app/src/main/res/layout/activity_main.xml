@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:padding="32dp">
+
+    <CheckBox
+        android:id="@+id/checkbox_county_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_county_number"
+        android:checked="true"
+        android:layout_marginTop="10dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_county_flag"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_county_flag"
+        android:checked="true"
+        android:layout_marginTop="10dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_county_alphabetically"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/order_alphabetically"
+        android:checked="false"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/showDialog"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="@string/show_dialog"
+        android:background="@drawable/btn_rounded_red"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/selectedCounty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Subhead"
+        android:layout_gravity="center_horizontal"/>
+
+
+    <ImageView
+        android:id="@+id/flagImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>
