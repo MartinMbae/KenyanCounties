@@ -57,9 +57,11 @@ To the display all counties, call the method
 
 ## Screenshots
 
-<img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr1.png" width="200" height="auto">
-![Dialog with flags and numbers](https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr2.png){:height="50%" width="50%"}
-![Dialog with flags with no numbers](https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr3.png){:height="700px" width="400px"}
+<img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr1.png" width="300" height="auto" alt="Selection Page">
+
+<img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr2.png" width="300" height="auto" alt="Dialog with flags and numbers">
+
+<img src="https://github.com/MartinMbae/KenyanCounties/blob/master/screenshots/scr3.png" width="300" height="auto" alt="Dialog with flags with no numbers">
 
 ## License
 MIT License
