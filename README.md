@@ -17,7 +17,7 @@ Each county in this library has;
 Add this library to your dependencies
 
 ```bash
-    implementation 'com.martinmbae.kenyan.47counties:library:1.0.1'
+    implementation 'com.martinmbae.kenyan.47counties:library:1.0.3'
 ```
 
 ## Usage
