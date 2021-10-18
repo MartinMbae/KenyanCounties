@@ -9,9 +9,6 @@ Each county in this library has;
 - County Number eg 001
 - Flag
 
-
-
-
 ## Installation
 
 Add this library to your dependencies
@@ -70,7 +67,7 @@ To the display all counties, call the method
 MIT License
 
 ```
-Copyright (c) [year] [fullname]
+Copyright (c) 2021 Martin Mbae
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
